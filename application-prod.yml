@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ifcute/
+          search-paths: study-spring-cloud-config
+          username: ifcute
+          password: qqq.222/www
+server:
+  port: 12000
+
+from: git-prod-1.0
