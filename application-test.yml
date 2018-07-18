@@ -10,6 +10,6 @@ spring:
           username: ifcute
           password: qqq.222/www
 server:
-  port: 12000
+  port: 13000
 
 from: git-test-1.0
