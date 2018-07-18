@@ -11,4 +11,4 @@ spring:
           password: qqq.222/www
 server:
   port: 13000
-from: git-dev-1.0
+from: git-dev-1.1
